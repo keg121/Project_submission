@@ -31,5 +31,7 @@ Dissertation Project
 
    
    Data: This folder contains the metabolic rate data set that was produced for this thesis. 
+   1. MRdata.csv: Metabolic rate data
+   2. TPC_parameter_estimates.csv: Estimates from TPC fitting
    
    Results: Folder with thesis and supplementary information in .pdf form

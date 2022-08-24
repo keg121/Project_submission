@@ -24,7 +24,7 @@ Dissertation Project
    Code: This folder contains (1) all the code used in this analysis and (2) source code for the LaTeX write.
    
    1. get_phylogeny_from_OTL_and_timetree.R: Used to get a time calibrated tree used for tree_script.R (run this before running tree_script.R)
-   2. TPC_fitting_pipeline_all_in.R: Used to fit TPC to data (run before running tree_script.R)
+   2. TPC_fitting_pipeline.R: Used to fit TPC to data (run before running tree_script.R)
    3. tree_script.R: main code
    4. compare_species.R: additional script for plots showing different E estimates for (i) juvenilles vs adults and (ii) AMR vs RMR
    5. Thesis folder: Contains all the code and supporting documents for the project write up 

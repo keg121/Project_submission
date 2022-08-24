@@ -295,6 +295,6 @@ for ( i in 1:length(split_dataset) )
 # remove r square values < 0.4
 results <- results %>% filter(R_squared > 0.4)
 
-write.csv(results, file = 'TPC_parameter_estimates_All.csv', row.names = FALSE)
+write.csv(results, file = 'TPC_parameter_estimates.csv', row.names = FALSE)
 
 

@@ -1,2 +1,26 @@
-# Project_submission
-This repository contains the final write up in pdf form ("results" folder), the LaTeX file and supporting documents used to produce this thesis ("code" folder), the data used in this analysis ("data" folder) and the R code used in this analysis ("code" folder).. 
+Dissertation Project
+   ---------------------
+   Thesis, code and supporting documents.
+   
+   Author name and contact: 
+   -----------------------
+   Kate Griffin, kate.griffin21@imperial.ac.uk
+
+   Brief description:
+   ------------------
+   This repository contains all the data and code used to produce this thesis. The results are also provided in .pdf form.
+
+   Languages: 
+   ---------
+   R (v 3.6.4), LaTeX
+   
+   Dependencies:
+   -------------
+   tidyverse, dpplyr, ggplot2, phytools, cowplot & gridExtra
+
+
+   Project structure and Usage: 
+   ---------------------------
+   Code: This folder contains (1) all the code used in this analysis and (2) source code for the LaTeX write.
+   Data: This folder contains the metabolic rate data set that was produced for this thesis. 
+   Results: Folder with thesis and supplementary information in .pdf form

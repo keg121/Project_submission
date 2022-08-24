@@ -22,8 +22,8 @@ Dissertation Project
    Project structure and Usage: 
    ---------------------------
    Code: This folder contains (1) all the code used in this analysis and (2) source code for the LaTeX write.
-   -
-   - tree_script.R main code
+   
+   1. tree_script.R main code
    
    Data: This folder contains the metabolic rate data set that was produced for this thesis. 
    

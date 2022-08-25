@@ -27,11 +27,12 @@ Dissertation Project
    2. TPC_fitting_pipeline.R: Used to fit TPC to data (run before running tree_script.R)
    3. tree_script.R: main code
    4. compare_species.R: additional script for plots showing different E estimates for (i) juvenilles vs adults and (ii) AMR vs RMR
-   5. Thesis folder: Contains all the code and supporting documents for the project write up 
-
+   5. Thesis folder: Contains all the code and supporting documents for the project write up and the supporting information
+  
    
    Data: This folder contains the metabolic rate data set that was produced for this thesis. 
    1. MRdata.csv: Metabolic rate data
    2. TPC_parameter_estimates.csv: Estimates from TPC fitting
    
-   Results: Folder with thesis and supplementary information in .pdf form
+   Results: Folder with thesis (whole write up and SI), as well as write up and SI seperately, in .pdf form.
+
